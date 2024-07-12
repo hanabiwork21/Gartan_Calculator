@@ -1,0 +1,14 @@
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\bin\Debug\net8.0\Calculator_Gartan.exe
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\bin\Debug\net8.0\Calculator_Gartan.deps.json
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\bin\Debug\net8.0\Calculator_Gartan.runtimeconfig.json
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\bin\Debug\net8.0\Calculator_Gartan.dll
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\bin\Debug\net8.0\Calculator_Gartan.pdb
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\obj\Debug\net8.0\Calculator_Gartan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\obj\Debug\net8.0\Calculator_Gartan.AssemblyInfoInputs.cache
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\obj\Debug\net8.0\Calculator_Gartan.AssemblyInfo.cs
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\obj\Debug\net8.0\Calculator_Gartan.csproj.CoreCompileInputs.cache
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\obj\Debug\net8.0\Calculator_Gartan.dll
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\obj\Debug\net8.0\refint\Calculator_Gartan.dll
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\obj\Debug\net8.0\Calculator_Gartan.pdb
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\obj\Debug\net8.0\Calculator_Gartan.genruntimeconfig.cache
+C:\Users\jayve\source\repos\Calculator_Gartan\Calculator_Gartan\obj\Debug\net8.0\ref\Calculator_Gartan.dll
